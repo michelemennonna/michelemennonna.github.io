@@ -5,8 +5,8 @@ layout: default
 <div class="home row">
 
   <h1 class="titleMy postopen hide-for-small-only">Posts</h1>
-
-  <ul class="column  large-8 medium-8 small-8 large-push-2 small-push-2 medium-push-2">
+<div class="column  large-8 medium-8 small-8 large-push-2 small-push-2 medium-push-2">
+  <ul >
     {% for post in site.posts %}
       <li class="post-block column large-8 position-centered">
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span column>
@@ -15,6 +15,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
+</div>
 
 
 </div>
