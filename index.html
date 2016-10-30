@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="home row">
+
+  <h1 class="titleMy postopen hide-for-small-only">Posts</h1>
+
+  <ul class="column  large-push-2">
+    {% for post in site.posts %}
+      <li class="post-block column large-8 position-centered">
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span column>
+        <a class="post-link " href="{{ post.url }}">{{ post.title }}</a>
+          <p class="bloc_post">{{ post.content  | truncatewords: 40}}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+
+</div>

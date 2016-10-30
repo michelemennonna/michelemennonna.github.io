@@ -1,0 +1,29 @@
+---
+layout: default
+---
+ <form id="ajax-contact" method="post" action="mailer.php">
+                      <div class="field">
+                        <input type="text" name="name" placeholder="first name" required></input>
+
+                      </div>
+                      <div class="field">
+                        <input type="text" name="surname" placeholder="last name"></input>
+                      </div>
+                      <div class="field">
+                        <input type="text" name="phone" placeholder="telephone" required></input>
+
+                      </div>
+                      <div class="field">
+                        <input type="email" name="email" placeholder="email" required></input>
+
+                      </div>
+                      <div class="field">
+                        <textarea type="message" name="message" placeholder="message" required></textarea>
+
+                      </div>
+                      <div class="field">
+                        <button type="submit">send</button>
+                      </div>
+
+                  </form>
+                  <div class="form-messages"></div>
