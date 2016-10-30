@@ -294,7 +294,7 @@ font-weight:lighter;
 }
 @media only screen and (max-width: 639px) {
 	.single-post{
-		margin-top:-100px;
+		margin-top:-150px;
 		
 	}
 }
