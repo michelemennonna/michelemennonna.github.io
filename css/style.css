@@ -292,3 +292,9 @@ font-weight:lighter;
 	margin-top:100px;
 	margin-bottom:100px;
 }
+@media only screen and (max-width: 639px) {
+	.single-post{
+		margin-top:-100px;
+		
+	}
+}
