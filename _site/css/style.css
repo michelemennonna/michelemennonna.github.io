@@ -44,7 +44,8 @@
 	line-height:60px;
 	transition: color 1s ease;
 	font-family:'Raleway';
-	S
+	
+
 	
 
 
@@ -152,7 +153,9 @@
 }
 
 .posts{
-	margin-top:30px;}
+	margin-top:30px;
+
+}
 
 .post-date{
 	font-family:'Raleway';
@@ -180,7 +183,7 @@ li{
 }
 @media only screen and (max-width: 639px) {
   .posts{margin-top:-500px;}
-  }
+  
 }
 
 .bloc_post{
@@ -222,6 +225,7 @@ font-weight:lighter;
     margin-left:-50%;
 
   }
+ }
  @media only screen and (max-width: 639px) {
   .single-post{
  	margin-top:-150px;
