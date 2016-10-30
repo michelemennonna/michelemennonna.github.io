@@ -1,33 +1,11 @@
 ---
 layout: default
 ---
- <div class="row">
+<form method="POST"
+      action="https://www.formingo.co/submit/john@example.com">
+    <input type="text" name="full_name">
+    <input type="email" name="__replyto">
 
-    <div id="contactForm" class="small-8 medium-8 large-8 medium-push-2 small-push-2 large-push-2 columns">
-      <form id="myForm" method="post" action="https://formspree.io/mmennonna3d@gmail.com"
-      method="POST">  
-          
-          <h5>Contact Me</h5>
-          <label>Name</label>
-          <small class="error">Your full name is required.</small>
-          <input type="text" placeholder="Full Name" required>
-          
-          <label>Email</label>
-          <small class="error">An email address is required.</small>
-
-          <input type="email" placeholder="username@address.com" required name="_replyto">
-          
-          <label>Web Address</label>          
-          <input type="url" placeholder="http://www.url.com">
-          
-          <label>Your Message</label>
-          <small class="error">Your message is required.</small>
-          <textarea placeholder="Enter your message here" required></textarea>
-          
-        <input type="submit" class="nice blue radius button" value="Send">
-        </form>
-    </div><!--end 8 columns-->
-
-            
-
+    <input type="submit" value="Contact">
+</form>
          
