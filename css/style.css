@@ -181,10 +181,7 @@ color:999;
 li{
 	list-style-type: none;
 }
-@media only screen and (max-width: 639px) {
-  .posts{margin-top:-500px;}
-  
-}
+
 
 .bloc_post{
 	text-align: center;
@@ -296,7 +293,9 @@ font-weight:lighter;
 	margin-bottom:100px;
 }
 
-.postHome{
-	margin-left:auto;
-	margin-right:auto;
+
+
+@media only screen and (max-width: 639px) {
+  #postHome{margin-top:-500px;}
+  
 }
