@@ -1,29 +1,32 @@
 ---
 layout: default
 ---
- <form id="ajax-contact" method="post" action="mailer.php">
-                      <div class="field">
-                        <input type="text" name="name" placeholder="first name" required></input>
+ <div class="row">
 
-                      </div>
-                      <div class="field">
-                        <input type="text" name="surname" placeholder="last name"></input>
-                      </div>
-                      <div class="field">
-                        <input type="text" name="phone" placeholder="telephone" required></input>
+    <div id="contactForm" class="small-8 medium-8 large-8 columns">
+      <form id="myForm" method="post" data-abide>  
+          
+          <h5>Contact Us</h5>
+          <label>Name</label>
+          <small class="error">Your full name is required.</small>
+          <input type="text" placeholder="Full Name" required>
+          
+          <label>Email</label>
+          <small class="error">An email address is required.</small>
 
-                      </div>
-                      <div class="field">
-                        <input type="email" name="email" placeholder="email" required></input>
+          <input type="email" placeholder="username@address.com" required>
+          
+          <label>Web Address</label>          
+          <input type="url" placeholder="http://www.url.com">
+          
+          <label>Your Message</label>
+          <small class="error">Your message is required.</small>
+          <textarea placeholder="Enter your message here" required></textarea>
+          
+        <input type="submit" class="nice blue radius button" value="Send Message"></button></a>
+        </form>
+    </div><!--end 8 columns-->
 
-                      </div>
-                      <div class="field">
-                        <textarea type="message" name="message" placeholder="message" required></textarea>
+            
 
-                      </div>
-                      <div class="field">
-                        <button type="submit">send</button>
-                      </div>
-
-                  </form>
-                  <div class="form-messages"></div>
+         
