@@ -222,6 +222,10 @@ font-weight:lighter;
     margin-left:-50%;
 
   }
+ @media only screen and (max-width: 639px) {
+  .single-post{
+ 	margin-top:-150px;
+	}
 }
 
 .titleAbout{
