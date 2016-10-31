@@ -10,5 +10,5 @@ The purpose of this site is actually sreading my words and discussing about 3D s
 as first sensed post of my super-cool awesome new site,I'd like to talk about my super-cool awesome new site.
 A long time past since last time i dealt with web stuff. A week ago I decided I needed a super-cool awesome new site 
 and bought my domain (did I really need it? probably no.). I didn' esitate diving in a world of awesome tools that reminded 
-my of ancient memories. I discoved some cool stuff I didn't know back then such as Github Pages and Jekyll. This tools helped me
-easily creating a fast and static blog. I also made use of <a>Zurb's Foundation</a> for achieving a mobile-first responsive site.
+my of ancient memories. I discoved some cool stuff I didn't know back then such as <a href="https://pages.github.com/">Github Pages</a> and <a href="http://jekyllrb.com/">Jekyll</a>. This tools helped me
+easily creating a fast and static blog. I also made use of <a href="http://foundation.zurb.com/">Zurb's Foundation</a> for achieving a mobile-first responsive site.
