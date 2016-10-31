@@ -1,3 +1,8 @@
+#archivetitle{
+	font-family:'Raleway';
+	font-weight:100;
+	font-size:50%;
+}
 
 
 .back1{
@@ -299,9 +304,4 @@ font-weight:lighter;
   #postHome{margin-top:-800px;}
   #contactform{margin-top:50px}
   
-}
-.archivetitle{
-	font-family:'Raleway';
-	font-weight:100;
-	font-size:50%;
 }
