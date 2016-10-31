@@ -303,6 +303,9 @@ font-weight:lighter;
 @media only screen and (max-width: 639px) {
   #postHome{margin-top:-800px;}
   #contactform{margin-top:50px}
+  .contact-me{	
+	margin-top:-100px;
+	}
   
 }
 
