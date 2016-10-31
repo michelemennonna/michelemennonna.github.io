@@ -300,3 +300,8 @@ font-weight:lighter;
   #contactform{margin-top:50px}
   
 }
+.archivetitle{
+	font-family:'Raleway';
+	font-weight:100;
+	font-size:50%;
+}
