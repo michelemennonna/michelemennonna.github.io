@@ -2,7 +2,7 @@
 layout: post
 title:  "Python C4D AutoRig"
 date:   2016-11-18 17:47:59 +0200
-categories: jekyll update
+categories: Scripting
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
