@@ -9,4 +9,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-<iframe class="column centered" src="https://vimeo.com/175282775" frameborder="0" allowfullscreen></iframe>
+
+<iframe src="https://player.vimeo.com/video/192111482" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/192111482">C4D Python Auto RIg MM</a> from <a href="https://vimeo.com/user34407728">Michele Mennonna</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
