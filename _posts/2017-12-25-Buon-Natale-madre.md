@@ -20,4 +20,4 @@ Buon Natale.
 Tieni guarda queste GIF di gattini.
 
 
-![alt text](![alt text](http://gretaconsiglia.it/wp-content/uploads/2014/04/lettino-semi-alto-con-scivolo-pirati-bianco-
+![alt text](https://media.giphy.com/media/5KuPVqoVRvQcg/giphy.gif)
